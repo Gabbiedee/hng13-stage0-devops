@@ -6,4 +6,4 @@ Slack Username: @Dolapo
 This is a simple web server deployment using NGINX as part of HNG13 Stage 0.  
 The server hosts a custom HTML file on port 80, accessible publicly via HTTP.
 
-**Server IP/Domain:** http://13.60.250.223/
+**Server IP/Domain:** 13.60.250.223
